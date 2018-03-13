@@ -1,0 +1,92 @@
+/*Custom alert*/
+.success_alert, .error_alert {
+	text-align:left;
+	padding:10px 20px 10px;
+	margin-top:7px;
+	font-size: 18px;
+}
+.success_alert {
+	background:#3BB75E;
+	color:#fff;
+}
+.error_alert {
+	background:#b94a48;
+	color:#fff;
+}
+
+.landing_container {
+	background: url('/assets/images/event-landing-page/banner-bg.jpg');
+	background-size: cover;
+	mix-blend-mode: multiply;
+	filter: grayscale(20%);
+	color:#fff;
+	padding: 110px 0 50px;
+	border-top: 5px solid #891453;
+}
+.landing_left_content {
+	margin-bottom: 100px;
+}
+.landing_left_content h1 {
+	color: #FCE329;
+	margin-top: 0;
+	line-height: 43px;
+}
+.landing_left_content h4 {
+	color: #fff;
+	font-weight: bold;
+}
+.landing_left_content p span i {
+	color:#bbb;
+	display: inline-block;
+	width: 20px;
+}
+.landing_left_content p span {
+	font-weight: bold;
+}
+.abuja_event, .kaduna_event {
+	border: 1px dotted #ccc;
+}
+.abuja_event {
+	margin-top: 20px;
+	border-bottom-color: transparent;
+}
+.landing_right_content {
+	background-color: rgba(255,255,255,.96);
+	padding: 30px 30px;
+	border: 1px solid #999;
+}
+.landing_right_content h3 {
+	text-transform: uppercase;
+	color:#012E5B;
+	font-size: 21px;
+}
+.form-control {
+	border-color: #999;
+}
+.enquiry_section {
+	margin-top: 50px;
+}
+select.form-control {
+	padding-left: 15px;
+}
+select.form-control [value=""]{
+	color: #ccc;
+}
+@media (max-width: 991px) {
+	.enquiry_section {
+		margin-top: 50px;
+	}
+	.my_grid_box {
+		width: 49%;
+		display: inline-block;
+	}
+}
+
+@media (max-width: 767px) {
+	.landing_container {
+		padding: 70px 0 70px;
+	}
+	.my_grid_box {
+		width: 100%;
+	}
+}

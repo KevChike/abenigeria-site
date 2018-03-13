@@ -1,0 +1,18 @@
+body {
+	font-size: 15px;
+}
+/*Custom alert*/
+.success_alert, .error_alert {
+	text-align:left;
+	padding:10px 20px 10px;
+	margin-top:7px;
+	font-size: 18px;
+}
+.success_alert {
+	background:#3BB75E;
+	color:#fff;
+}
+.error_alert {
+	background:#b94a48;
+	color:#fff;
+}

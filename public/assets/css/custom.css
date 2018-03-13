@@ -1,0 +1,122 @@
+body {
+	color: #222;
+}
+p {
+	line-height: 28px;
+	font-size: 16px;
+}
+.header {
+	padding: 25px 0;
+}
+
+/* Campaign section */
+.campaign_section {
+	padding: 10px 0;
+	width:100%;
+	font-size:20px;
+	/*background: linear-gradient(-135deg,#8649D6 0,#891453 100%);*/
+	background: #FE0002;
+	color:#fff;
+	position:relative;
+	z-index:1000;
+	text-align: center;
+	/*color: #D3E6FB;*/
+	color: #fff;
+	font-size: 15.5px;
+	text-shadow: 0 2px 4px rgba(0,0,0,.14);
+}
+
+.campaign_section .action_link a {
+	font-weight: 700;
+	color: #fff;
+	box-shadow: inset 0 -3px 0 #F9C91F;
+}
+.sticky {
+	position:fixed;
+	top:0;
+}
+
+/* End of Campaign section */
+
+.abe_logo {
+	height: 49px;
+	width: 167px;
+}
+.ctl_logo {
+	width: 107px;
+	height: 55px;
+}
+.slide-title {
+    color: #256DCC;
+}
+.slide-sub-title {
+    color: #f9c91f;
+}
+.call-to-action-text .action-sub-title {
+	color: #9c9c9c;
+}
+.testimonial {
+	background-color: rgba(1, 46, 91, 0.08);
+}
+/*Featured on*/
+.media_outlet {
+	text-align: center;
+}
+.media_outlet a {
+	filter: grayscale(100%);
+	transition: filter .8s;
+}
+.media_outlet a:hover {
+	filter: grayscale(0%);
+}
+.media_outlet .outlets {
+	margin-top: 20px;
+}
+/*Qualifications*/
+.qualification_brief {
+	margin: 20px 0 15px;
+	display: inline-block;
+}
+
+/*Footer*/
+.footer-social ul li a i.fa-instagram:hover {
+   background: #faaa5e;
+}
+.contact-info-box-content p {
+    font-size: 15px;
+}
+.footer-widget ul.list-arrow li {
+	float: none;
+	width: 100%;
+}
+/*Custom alert*/
+.success_alert, .error_alert {
+	text-align:left;
+	padding:10px 20px 10px;
+	margin-bottom:30px;
+}
+.success_alert {
+	background:#3BB75E;
+	color:#fff;
+}
+.error_alert {
+	background:#b94a48;
+	color:#fff;
+}
+
+
+/*Logo area*/
+@media(max-width: 991px) {
+	.header-right {
+		margin-top: 25px;
+	}
+	.content-inner-page {
+		margin-bottom: 100px;
+	}
+}
+
+@media(max-width: 991px) {
+	.qualification_brief div {
+		padding: 0;
+	}
+}
