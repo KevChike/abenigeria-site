@@ -5,7 +5,7 @@
 @endsection
 
 @section('page_description')
-<meta name="description" content="ABE is a not-for-profit awarding and emebership body based in the UK which provides global recognised business qualifications to learners across the globe.">
+<meta name="description" content="ABE is a not-for-profit awarding and membership body based in the UK which provides global recognised business qualifications to learners across the globe.">
 @endsection
 
 @section('content')  

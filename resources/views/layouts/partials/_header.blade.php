@@ -15,7 +15,7 @@
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 	<meta name="keywords" content="undergraduate, business, business development, career, job seeker, education, entrepreneurship, managers, personal development, qualifications, abe, association of business executives">
-	<meta name="description" content="">
+
 	
 	@yield('page_title')
    

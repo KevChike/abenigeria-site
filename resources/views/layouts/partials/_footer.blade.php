@@ -107,6 +107,8 @@
 								<p>{{ config('app.phone1') }}</p>
 								<p>{{ config('app.phone2') }}</p>
 								<p>{{ config('app.phone3') }}</p>
+								<p>{{ config('app.phone4') }}</p>
+								<p>{{ config('app.phone5') }}</p>
 							</div>
 						</div>
 					</div>

@@ -7,9 +7,9 @@
 		</div>
 	</div>
 
-	<div class="sidebar text-center">
+	{{--  <div class="sidebar text-center">
 		<a href="https://portal.abenigeria.com/register">
 			<img src="{{ asset('/assets/images/banner/banner-for-new-center.jpg') }}">
 		</a>
-	</div>
+	</div>  --}}
 	

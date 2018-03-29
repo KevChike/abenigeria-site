@@ -5,7 +5,7 @@
 @endsection
 
 @section('page_description')
-<meta name="description" content="Campus Technologies Limited is a multi-product consulting firm that provides Information Technology and Business Management consulting services across various industry sectors. We are a provider of Information Management, Technology solutions and Business Management training in Nigeria">
+<meta name="description" content="We know employers value ABE because our qualifications develop practical workplace skills, a strong understanding of strategic business objectives and sound theoretical knowledge of business principles.  This adds up to a winning combination that will make you a real asset in the workplace.  Our qualifications also give many former learners the confidence and skills to set up and run their own successful enterprises.">
 @endsection
 
 @section('content')  
@@ -50,7 +50,11 @@
 							<td>
 								<p><strong>Kano centre</strong></p>
 								<address>
-									<strong>COMING SOON!</strong>
+									Khadija House, <br> Plot C7, Zaira Road, <br> In front of Ummi Plaza, <br> Kano, Nigeria.
+								</address>
+								<address>
+									<strong>Phone:</strong>	+234 803 535 1694, +234 803 535 1695 <br>
+									<strong>Email:</strong> info@abenigeria.com
 								</address>
 							</td>
 						</tr>

@@ -23,6 +23,7 @@
 								<div class="contact-info-box-content">
 									<h4>Visit Us</h4>
 									<p>{{ config('app.abuja_office') }}</p>
+									<p><a href="{{ url('centres') }}">See our other centres</a></p>
 								</div>
 							</div>
 
@@ -41,6 +42,8 @@
 									<p>{{ config('app.phone1') }}</p>
 									<p>{{ config('app.phone2') }}</p>
 									<p>{{ config('app.phone3') }}</p>
+									<p>{{ config('app.phone4') }}</p>
+									<p>{{ config('app.phone5') }}</p>
 								</div>
 							</div>
 						</div>
