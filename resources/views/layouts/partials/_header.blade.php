@@ -3,14 +3,14 @@
 <head>
 
 	<!-- Global site tag (gtag.js) - Google Analytics -->
-	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-115581741-1"></script>
-	<script>
-	  window.dataLayer = window.dataLayer || [];
-	  function gtag(){dataLayer.push(arguments);}
-	  gtag('js', new Date());
-
-	  gtag('config', 'UA-115581741-1');
-	</script>
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-105624422-1"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+    
+      gtag('config', 'UA-105624422-1');
+    </script>
 
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
@@ -55,14 +55,16 @@
       if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
       n.queue=[];t=b.createElement(e);t.async=!0;
       t.src=v;s=b.getElementsByTagName(e)[0];
-      s.parentNode.insertBefore(t,s)}(window, document,'script',
+      s.parentNode.insertBefore(t,s)}(window,document,'script',
       'https://connect.facebook.net/en_US/fbevents.js');
-      fbq('init', '771922212949363');
+       fbq('init', '1873081786097778'); 
       fbq('track', 'PageView');
     </script>
-    <noscript><img height="1" width="1" style="display:none"
-      src="https://www.facebook.com/tr?id=771922212949363&ev=PageView&noscript=1"
-    /></noscript>
+    <noscript>
+     <img height="1" width="1" 
+    src="https://www.facebook.com/tr?id=1873081786097778&ev=PageView
+    &noscript=1"/>
+  </noscript>
     <!-- End Facebook Pixel Code -->
 </head>
 	
